@@ -1,6 +1,6 @@
 ---
-title: "Example Title"
+title: "Title"
 tags:
 ---
 
-Rest of your content here...
+[[Конструктивная конфронтация]]
